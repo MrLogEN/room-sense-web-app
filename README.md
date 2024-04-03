@@ -1,2 +1,2 @@
-# room-sense-web-app
-This app provides user interface for data visualization from [RoomSense API](https://github.com/MrLogEN/room-sense-api).
+# Room Sense Web App
+This app provides user interface for data visualization from [Room Sense API](https://github.com/MrLogEN/room-sense-api).
